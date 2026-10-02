@@ -1,0 +1,17 @@
+{
+  "name": "BBCafe Service Displays",
+  "short_name": "BBCafe KDS",
+  "description": "BBCafe kitchen and service-area order displays",
+  "start_url": "/service-displays",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/assets/png-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
